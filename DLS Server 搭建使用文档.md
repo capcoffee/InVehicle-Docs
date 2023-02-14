@@ -2,6 +2,10 @@
 
 ## 1. 安装软件
 
+
+
+
+
 ### 1.1 安装 luagit apache2-utils
 
 ```sh
